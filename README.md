@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Lopes
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning R and Python languages along with the basics of Data Science, Big Data, Machine Learning and Artificial Intelligence.
-- 💞️ I’m looking to collaborate on projects of Data Science where I can learn new stuff and also help contributing with some practical work
+- 👋 Hi, I’m Lopes a mechanical engineer with a taste for coding =)
+- 👀 In regard to tecnology I'm interested in Python in general and enjoy pretty much learning about Data Science.
+- 🌱 I’m currently learning Python languages along with the basics of Data Science, Big Data, Machine Learning and Artificial Intelligence.
+- 💞️ I look forward to collaborate on projects of Data Science applied on Engineering.
 - 📫 How to reach me: regislopesmec@gmail.com
 
 <!---
